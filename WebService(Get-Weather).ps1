@@ -1,6 +1,3 @@
-#Group 7: LostInSauce
-#Team: Anthony Chavez, Arjit Bista, Bishwa Lama, Jason Jenkins and Jessica Moslander 
-#CSC 160 Jonathan Wiebersch
 #Project: Get Weather API call
 #Date: March 09, 2021
 
@@ -125,8 +122,6 @@ Function Get-Weather {
     }
 }
 
-
-#To run get-weather function
 #Get-Weather | Format-Table
 #Get-Weather | Format-List
 #Get-Weather | Out-GridView
